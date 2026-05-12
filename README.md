@@ -17,11 +17,11 @@
 
 ### 📊 GitHub Stats
 
-<p float="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hardy-dev-infinilabs&theme=github" width="300" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hardy-dev-infinilabs&theme=github" width="300" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hardy-dev-infinilabs&theme=github" width="300" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hardy-dev-infinilabs&theme=github) 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hardy-dev-infinilabs&theme=github) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hardy-dev-infinilabs&theme=github) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hardy-dev-infinilabs&theme=github)
 
 ## 🎨 Personality
 - Slightly obsessed with efficiency, curious about system internals, and a fan of clean automation  
